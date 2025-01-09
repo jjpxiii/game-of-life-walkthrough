@@ -1,0 +1,10 @@
+/* Base styles */
+body {
+    margin: 0;
+    overflow: hidden;
+    background: white;
+}
+
+canvas {
+    display: block;
+}
